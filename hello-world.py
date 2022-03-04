@@ -1,1 +1,1 @@
-print('Hello World ozellikle kizilcaağaç')
+print('Hello World ozellikle kizilcaagac')
